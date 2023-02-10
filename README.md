@@ -1,6 +1,6 @@
 My personal website: [*guoj.org*](https://guoj.org/)
 
-I am and have been contributing to
+I contributed to:
 
 1. [**SageMath**](https://github.com/sagemath/sage): A free open-source mathematics software system
 2. [**Nyxt**](https://github.com/atlas-engineer/nyxt): A web browser written in Common Lisp
