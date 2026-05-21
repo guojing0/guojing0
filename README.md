@@ -10,7 +10,7 @@ Erdos number: 2
 
 #### Research
 
-- **QEDBench**: Quantifying the alignment gap in automated evaluation of university-level mathematical proofs (2026)
+- **QEDBench**: Quantifying the alignment gap in automated evaluation of university-level mathematical proofs - ICML 2026
 - **Crowns in linear 3-graphs of minimum degree 4** - *The Electronic Journal of Combinatorics*, 2022
 - **Master's thesis**: "A Tale of Two Arcs: The Circle Method and Waring's Problem"
 
