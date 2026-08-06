@@ -1,7 +1,5 @@
 ### Jing Guo
 
-AI for Math, theoretical computer science, and extremal combinatorics.
-
 Erdos number: 2
 
 [guoj.org](https://guoj.org/) | [Google Scholar](https://scholar.google.com/citations?user=tQA8X_kAAAAJ) | [arXiv](https://arxiv.org/a/guo_j_2.html) | [LinkedIn](https://www.linkedin.com/in/imjingguo/)
